@@ -1,0 +1,36 @@
+/* styles.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+button.js-subscribe-button {
+    font-size: 16px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #ff0000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.js-subscribe-button:hover {
+    background-color: #cc0000;
+}
+
+button.js-subscribe-button:active {
+    background-color: #990000;
+} */
