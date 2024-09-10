@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+        <title>Best used phones in Bhopal- Grab the deal now</title>
+</head>
+<body class="bg-pink-200">
+    <nav class="bg-purple-800 text-white flex justify-between">
+        <img src="https://media.istockphoto.com/id/1302583496/vector/phone-icon-symbol-set-smartphone-old-phone-logo-sign-shape-collection-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZxLwqwNROCbTB6gRX0GltFtYBRIwuFPGG68__XO4llQ=" class='w-12 h-13 rounded-3xl py-2 px-1 ' alt="">
+        <ul class="px-28 py-4 flex space-x-11 justify-end">
+            <li class="cursor-pointer">Home </li>
+            <li class="cursor-pointer">About</li>
+            <li class="cursor-pointer">Catalogue</li>
+            <li class="cursor-pointer">Contact Us</li>
+        </ul>
+    </nav>
+    <main class="flex items-center">
+        <div class= " main bg-pink-200  py-40 font-bold text-purple-900 " >
+            <div class="text-6xl px-10">Best phones in town</div> 
+        
+        <p class=" px-14 py-3 w-2/3 text-purple-500"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, pariatur beatae? Consequatur quis dolor sed incidunt in sequi consequuntur, inventore quia quaerat fugiat tempora, est repudiandae aspernatur ratione id temporibus.        </p>
+        <div class="my-4 px-16">
+            <button class="bg-purple-800 px-3 py-3 rounded-2xl text-white hover:text-slate-900 hover:bg-pink-400">Buy now</button>
+            <button class="bg-purple-800 px-3 py-3 rounded-2xl text-white hover:text-slate-900 hover:bg-pink-400">Contact us</button>
+        </div>
+        </div>
+        <div><img src="images/image-removebg-preview (3).png" alt=""></div>
+
+
+    </main>
+
+    
+</body>
+</html>
